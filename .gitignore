@@ -1,0 +1,8 @@
+bin/*.gz
+bin/*.aux
+bin/*.log
+bin/*.toc
+bin/main.pdf
+bin/verlibr.pdf
+doc
+.DS_Store
