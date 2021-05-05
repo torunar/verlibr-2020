@@ -19,7 +19,7 @@
 \usepackage[russian]{babel}
 
 % interval
-\linespread{1.4}
+\linespread{1.3}
 
 % graphics
 \usepackage{graphicx}
