@@ -1,6 +1,5 @@
-build:
-	rm -rf bin/verlibr.pdf
+build: clean
 	docker build -t pdf:latest -o bin .
 
-run: build
-	open bin/verlibr.pdf
+clean:
+	rm -rf bin/verlibr.pdf
