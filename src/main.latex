@@ -11,7 +11,7 @@
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhf{}
-\cfoot{\small- \thepage -}
+\cfoot{\small-~\thepage~-}
 
 % fonts
 \usepackage[utf8]{inputenc}
