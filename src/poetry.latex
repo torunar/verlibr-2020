@@ -11,3 +11,5 @@
 \input{./poetry/arsentev.latex}
 
 \input{./poetry/baraboshkina.latex}
+
+\input{./poetry/godver.latex}
