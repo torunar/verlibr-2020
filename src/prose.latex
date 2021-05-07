@@ -1,3 +1,4 @@
 \ssection[Проза]{ПРОЗА}
 
 \input{./prose/demencova.latex}
+\input{./prose/nikonorov.latex}
