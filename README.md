@@ -9,6 +9,7 @@
 # Сборка
 
 ```
+$ git clone git@github.com:torunar/verlibr-2020.git
 $ cd verlibr-2020
 $ make
 ```
