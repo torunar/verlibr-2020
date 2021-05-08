@@ -9,12 +9,12 @@
 \input{./poetry/godver.latex}
 \input{./poetry/mitrofanova.latex}
 \input{./poetry/baranova.latex}
+\input{./poetry/vihareva.latex}
 \input{./poetry/galiaskarova.latex}
 \input{./poetry/marchenkova.latex}
 \input{./poetry/sorokotyagin.latex}
 \input{./poetry/aksenova.latex}
 \input{./poetry/balin.latex}
-\input{./poetry/vihareva.latex}
 \input{./poetry/garipov.latex}
 \input{./poetry/dyo.latex}
 \input{./poetry/demencova.latex}
