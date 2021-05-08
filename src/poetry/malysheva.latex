@@ -2,6 +2,7 @@
 
 \ttitle{ПТЕНИЕ}
 \begin{verse}
+\begin{spacing}{1.2}
 птение\\
 дышит свежестью сквозь ресницы.\\
 говоришь:\\
@@ -14,7 +15,7 @@
 пением,\\
 птицами.\\
 птением.\\
+\end{spacing}
 \end{verse}
 
-\newpage
-\img{malysheva.jpg}
+\img[8cm]{malysheva.jpg}
